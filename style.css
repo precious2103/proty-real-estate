@@ -52,6 +52,11 @@ header {
   margin-right: 10px;
 }
 
+.logo-icon img {
+  width: 29px;
+  height: 24px;
+}
+
 .logo-text span {
   font-size: 12px;
   color: #888;
